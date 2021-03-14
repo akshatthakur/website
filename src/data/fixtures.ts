@@ -16,11 +16,10 @@ export default {
         }
       },
       images: [
-        "/doubletext/Product Hunt 6.jpg",
-        "/doubletext/Product Hunt 5.jpg",
-        "/doubletext/Product Hunt 2.jpg",
-        "/doubletext/Product Hunt 3.jpg",
-        "/doubletext/Product Hunt 4.jpg",
+        "/NMH/1.jpg",
+        "/NMH/2.jpg",
+        "/NMH/3.jpg",
+        "/NMH/4.jpg"
       ]
     },
     {
@@ -36,7 +35,9 @@ export default {
         }
       },
       images: [
-        "/volunteerportal/1.jpg"
+        "/CKD/1.jpg",
+        "/CKD/2.jpg",
+        "/CKD/3.jpg"
       ]
     },
     {
@@ -68,18 +69,22 @@ export default {
         },
       },
       images: [
-        "/slash/1.jpg",
-        "/slash/2.jpg",
-        "/slash/3.jpg"
+        "/BF/1.jpg",
+        "/BF/3.jpg",
+        "/BF/2.jpg"
       ]
     },
     {
-      name: "More works",
+      name: "More projects",
       links: {
         color: "#363636",
         primary: {
           name: "Github",
           url: "https://github.com/akshatthakur"
+        },
+        secondary: {
+          name: "Books",
+          url: "https://www.amazon.com/Akshat-Thakur/e/B08KNNS2RK"
         },
       }
     }
