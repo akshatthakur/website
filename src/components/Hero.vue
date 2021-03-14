@@ -4,12 +4,17 @@
       <text-container>
         <heading>{{author}}</heading>
         <subtitle>BSc. in Statistics (and C.S.) at The University of British Columbia.</subtitle>
+        <h6>My Motivations</h6>
         <paragraph>Throughout my life, I have always had a deep passion for creating new things and solving problems with no pre-existing solutions using technology and innovation. Essentially, I want to use a combination of statistics, math and computer science to create cool stuff.</paragraph>
         <social-links>
           <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text>
           <social-link-text><linked href="https://www.github.com/akshatthakur" target="_blank"><i class="fab fa-github"></i> Github </linked></social-link-text>
           <social-link-text><linked href="https://akshatthakur.github.io/CV.pdf" target="_blank"> Résumé </linked></social-link-text>
         </social-links>
+        <h6>Where to Next?</h6>
+        <paragraph>I am searching for a home for my inquisitiveness, my technical and non-technical proficiencies and experience programming in Python, R, Java, JavaScript/TypeScript, and SQL, and my extremely high interest in machine learning and artificial intelligence, data science, software engineering, and learning new technologies and tools. </paragraph>
+        <paragraph>If you have any open internship/co-op roles for Data Scientists, Data Analysts, Software Engineers or Product Managers, please do reach out to me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
+        
       </text-container>
     </container>
   </background>
