@@ -88,12 +88,9 @@ const SocialLinkText = styled(Subheading)`
 
 export default {
   components: {
-    Linked,
     Background,
     Container,
     TextContainer,
-    SocialLinks,
-    SocialLinkText,
     Heading,
     Subtitle,
     Paragraph
