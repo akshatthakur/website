@@ -3,8 +3,12 @@
     <container>
       <text-container>
         <heading>{{author}}</heading>
-        <subtitle>BSc. Statistics and Computer Science at The University of British Columbia.</subtitle>
-        <paragraph>I have always had a deep passion for creating new things and solving problems with no pre-existing solutions using technology and innovation. A curious individual, I have dabbled in many different fields (Data Science, Entrepreneurship, Prototyping, Digital Marketing, Teaching, Authorship). I want to use a combination of statistics, math and computer science to create cool stuff.</paragraph>
+        <subtitle>BSc. in Statistics (and C.S.) at The University of British Columbia.</subtitle>
+        <paragraph>Throughout my life, I have always had a deep passion for creating new things and solving problems with no pre-existing solutions using technology and innovation. Essentially, I want to use a combination of statistics, math and computer science to create cool stuff.</paragraph>
+        <social-links>
+          <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text>
+          <social-link-text><linked href="https://www.github.com/akshatthakur" target="_blank"><i class="fab fa-github"></i> Github </linked></social-link-text>
+        </social-links>
       </text-container>
     </container>
   </background>
@@ -14,7 +18,6 @@
 import { Linked } from './styles/Text.ts'
 import styled from 'vue-styled-components'
 import { Subtitle, Paragraph } from './styles/Text.ts'
-
 const Background = styled.div`
   background: url(${({theme}) => theme.hero.background.image});
   background-size: cover;
@@ -23,7 +26,6 @@ const Background = styled.div`
   width: 100%;
   min-width: ${({theme}) => theme.screen.width.mobile}px;
   margin: auto;
-
   /* Responsive */
   height: 100vh;
   min-height: 600px;
@@ -33,12 +35,10 @@ const Background = styled.div`
     background-size: inherit;
 }
 `
-
 const Container = styled.div`
   max-width: ${({theme}) => theme.screen.width.desktop}px;
   margin: auto;
   /* padding-top: 180px; */
-
   /* Responsive */
   height: 100vh;
   min-height: 600px;
@@ -47,26 +47,21 @@ const Container = styled.div`
   flex-direction: column;
   justify-content: center;
 `
-
 const TextContainer = styled.div`
   width: 355px;
   margin: 10px;
-
   /* Responsive */
   margin-top: -20px;
-
   @media screen and (max-width: ${({theme}) => theme.screen.width.desktop}px) {
     width: ${({theme}) => theme.screen.width.mobile - theme.screen.padding.mobile * 2}px;
     margin: auto;
   }
 `
-
 const Subheading = styled.h2`
   font-size: 18px;
   margin: 16px 0px;
   font-weight: 300;
 `
-
 const Heading = styled.h1`
   font-size: 92px;
   margin: 32px auto;
@@ -75,22 +70,22 @@ const Heading = styled.h1`
     font-size: 72px;
   }
 `
-
 const SocialLinks = styled.div`
   margin: 36px 0px;
   display: flex;
 `
-
 const SocialLinkText = styled(Subheading)`
   margin-right: 32px;
   font-weight: bold;
 `
-
 export default {
   components: {
+    Linked,
     Background,
     Container,
     TextContainer,
+    SocialLinks,
+    SocialLinkText,
     Heading,
     Subtitle,
     Paragraph
