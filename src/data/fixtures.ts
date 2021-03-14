@@ -42,7 +42,7 @@ export default {
     {
       name: "Hotel Database",
       medium: ["SQL", "Java", "Oracle", "Swing"],
-      summary: "Crypto Mining Stats",
+      summary: "Database from Scratch using SQL and JDBC",
       copy: ["A database for a fictional hotel. A lot of complicated relational databases stuff here."],
       links: {
         color: "#363636",
