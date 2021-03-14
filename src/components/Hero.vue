@@ -5,7 +5,9 @@
         <heading>{{author}}</heading>
         <subtitle>BSc. in Statistics (and C.S.) at The University of British Columbia.</subtitle>
         <paragraph>Throughout my life, I have always had a deep passion for creating new things and solving problems with no pre-existing solutions using technology and innovation. Essentially, I want to use a combination of statistics, math and computer science to create cool stuff.</paragraph>
+        <hr>
         <paragraph>I am searching for a home for my technical and non-technical proficiencies, and my extremely high interest in AI/ML, data science, software engineering, and learning new technologies and tools. </paragraph>
+        <hr>
         <paragraph>If you have any open internship/co-op roles for Data Scientists, Data Analysts, Software Engineers or Product Managers, please do reach out to me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
         <social-links>
