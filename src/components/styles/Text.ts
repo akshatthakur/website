@@ -33,3 +33,9 @@ export const Paragraph = styled.p`
   font-weight: 300;
   margin-bottom: 0;
 `
+export const Subtitle = styled.h2`
+  font-size: 18px;
+  margin-bottom: 4px;
+  letter-spacing: 1px;
+  font-weight: 400;
+`
