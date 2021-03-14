@@ -3,12 +3,8 @@
     <container>
       <text-container>
         <heading>{{author}}</heading>
-        <subtitle>Software engineer at <linked href="https://www.zendesk.com/about/" target="_blank">Zendesk</linked>.</subtitle>
-        <paragraph>Building reliable and scalable systems by day. Leveraging technology to launch fully featured <linked href="/#products">products</linked> by night.</paragraph>
-        <social-links>
-          <social-link-text><linked href="https://twitter.com/samxstudio" target="_blank"><i class="fab fa-twitter"></i> Twitter</linked></social-link-text>
-          <social-link-text><linked href="https://medium.com/sam-xie" target="_blank"><i class="fab fa-medium"></i> Medium</linked></social-link-text>
-        </social-links>
+        <subtitle>BSc. Statistics and Computer Science at The University of British Columbia.</subtitle>
+        <paragraph>I have always had a deep passion for creating new things and solving problems with no pre-existing solutions using technology and innovation. A curious individual, I have dabbled in many different fields (Data Science, Entrepreneurship, Prototyping, Digital Marketing, Teaching, Authorship). I want to use a combination of statistics, math and computer science to create cool stuff.</paragraph>
       </text-container>
     </container>
   </background>
