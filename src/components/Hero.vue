@@ -55,7 +55,7 @@ const Container = styled.div`
   justify-content: center;
 `
 const TextContainer = styled.div`
-  width: 600px;
+  width: 620px;
   margin: 10px;
   /* Responsive */
   margin-top: -20px;
