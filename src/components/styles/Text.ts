@@ -33,7 +33,7 @@ export const Paragraph = styled.p`
   font-weight: 300;
   margin-bottom: 0;
 `
-export const Subtitle = styled.h2`
+export const Heading = styled.h2`
   font-size: 18px;
   margin-bottom: 4px;
   letter-spacing: 1px;
