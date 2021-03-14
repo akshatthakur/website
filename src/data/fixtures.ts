@@ -1,18 +1,18 @@
 export default {
-  author: "Sam Xie",
+  author: "Akshat Thakur",
   products: [
     {
-      name: "Double Text",
-      medium: ["React", "Go", "GraphQL"],
-      summary: "Facebook Messenger Analyzer",
+      name: "NeutRal Milk Hotel",
+      medium: ["R", "NLP", "JavaScript"],
+      summary: "Audio and lyrical analysis",
       copy: [
-        "Discover your chat behaviour for when you don't realise you've been double texting too much."
+        "A data-driven process to analyze and visualize different aspects of Neutral Milk Hotel’s discography using web scraping and sentiment analysis."
       ],
       links: {
         color: "#363636",
         primary: {
-          name: "Discover",
-          url: "https://doubletext.me/"
+          name: "More",
+          url: "https://akshatthakur.github.io/results-only.html"
         }
       },
       images: [
@@ -24,19 +24,15 @@ export default {
       ]
     },
     {
-      name: "Volunteer Portal",
-      medium: ["React", "Rails", "GraphQL"],
-      summary: "Volunteering Events Portal",
-      copy: ["An event calendar focused on tracking and reporting volunteering opportunities."],
+      name: "CKD Prediction Model",
+      medium: ["tidyverse", "ggplot2", "caret"],
+      summary: "knn-classification model",
+      copy: ["A prediction model that determines if a new patient is likely to have, or, in the future, develop Chronic Kidney Disease."],
       links: {
         color: "#363636",
         primary: {
-          name: "Github",
-          url: "https://github.com/zendesk/volunteer_portal"
-        },
-        secondary: {
-          name: "Demo",
-          url: "https://volunteer-portal-demo.herokuapp.com/"
+          name: "Jupyter",
+          url: "https://github.com/akshatthakur/chronic-kidney-disease/blob/main/ckd%20(1).ipynb"
         }
       },
       images: [
@@ -44,19 +40,15 @@ export default {
       ]
     },
     {
-      name: "MPH Watch",
-      medium: ["React", "NodeJS"],
+      name: "Hotel Database",
+      medium: ["SQL", "Java", "Oracle", "Swing"],
       summary: "Crypto Mining Stats",
-      copy: ["Track your mining progress for miners on Mining Pool Hub."],
+      copy: ["A database for a fictional hotel. A lot of complicated relational databases stuff here."],
       links: {
         color: "#363636",
         primary: {
-          name: "Demo",
-          url: "http://mphwatch.samxie.net/demo"
-        },
-        secondary: {
-          name: "Login",
-          url: "http://mphwatch.samxie.net/"
+          name: "Github",
+          url: "https://github.com/akshatthakur/hotel-database"
         }
       },
       images: [
@@ -64,15 +56,15 @@ export default {
       ]
     },
     {
-      name: "Prototype I",
-      medium: ["Unity", "OculusSDK"],
-      summary: "Freestyle locomotion system",
-      copy: ["A short survival experience on an abandoned planet."],
+      name: "Blossom Fell",
+      medium: ["Philosophical Fiction"],
+      summary: "My latest novella.",
+      copy: ["A look into the secluded world of a young man's many heartbreaks and his struggle to find something genuine in an absurd place."],
       links: {
         color: "#363636",
         primary: {
           name: "Discover",
-          url: "https://samzx.itch.io/final-slash-vr"
+          url: "https://www.amazon.com/Blossom-Fell-solitude-drowning-endlessly-ebook/dp/B08KNTKMXB/"
         },
       },
       images: [
@@ -87,27 +79,19 @@ export default {
         color: "#363636",
         primary: {
           name: "Github",
-          url: "https://github.com/samzx"
-        },
-        secondary: {
-          name: "Medium",
-          url: "https://medium.com/sam-xie"
+          url: "https://github.com/akshatthakur"
         },
       }
     }
   ],
   links: [
     {
-      name: "Twitter",
-      url: "https://twitter.com/samxstudio"
-    },
-    {
       name: "Linkedin",
-      url: "https://www.linkedin.com/in/xiesam/"
+      url: "https://www.linkedin.com/in/akshatthakur/"
     },
     {
       name: "Email",
-      url: "mailto:contact@samxie.net"
+      url: "mailto:akshatvsthakur@gmail.com"
     },
   ]
 }
