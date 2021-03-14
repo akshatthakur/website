@@ -53,7 +53,7 @@ export default {
         }
       },
       images: [
-        "/mphwatch/mphwatch.jpg",
+        "/hb.jpg",
       ]
     },
     {
