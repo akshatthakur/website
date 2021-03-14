@@ -98,9 +98,6 @@ export default {
       name: "Email",
       url: "mailto:akshatvsthakur@gmail.com"
     },
-    {
-      name: "Compositions",
-      url: "https://www.youtube.com/channel/UCzDFGGvpOsoS4XAbCMVfVxg"
-    },
+   
   ]
 }
