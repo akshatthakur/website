@@ -69,9 +69,9 @@ export default {
         },
       },
       images: [
-        "/BF/1.jpg",
+        "/BF/2.jpg",
         "/BF/3.jpg",
-        "/BF/2.jpg"
+        "/BF/1.jpg"
       ]
     },
     {
