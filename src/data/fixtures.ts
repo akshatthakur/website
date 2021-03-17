@@ -91,7 +91,7 @@ export default {
   ],
   links: [
     {
-      name: "Linkedin",
+      name: "LinkedIn",
       url: "https://www.linkedin.com/in/akshatthakur/"
     },
     {
