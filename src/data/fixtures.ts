@@ -65,7 +65,7 @@ export default {
         color: "#363636",
         primary: {
           name: "Discover",
-          url: "https://www.amazon.com/Blossom-Fell-solitude-drowning-endlessly-ebook/dp/B08KNTKMXB/"
+          url: "https://www.amazon.ca/Blossom-Fell-solitude-drowning-endlessly/dp/B08KPXLZHR/"
         },
       },
       images: [
