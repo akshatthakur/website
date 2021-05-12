@@ -1,7 +1,7 @@
 <template>
   <app-footer>
     <author>{{author}}</author>
-    <p v-for="(link, index) in links" :key="`product-desctiption-${index}`">
+    <p v-for="(link, index) in links" :key="`product-description-${index}`">
         <linked target="_blank" v-bind:href="link.url">{{link.name}}</linked><slash v-if="index != links.length - 1">/</slash>
     </p>
   </app-footer>
