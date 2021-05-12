@@ -84,7 +84,7 @@ export default {
         },
         secondary: {
           name: "Books",
-          url: "https://www.amazon.com/Akshat-Thakur/e/B08KNNS2RK"
+          url: "https://www.amazon.ca/kindle-dbs/entity/author/B08KNNS2RK"
         },
       }
     }
