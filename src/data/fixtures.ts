@@ -37,10 +37,10 @@ export default {
         }
       },
       images: [
-        "/PSP/1.jpg",
-        "/PSP/2.jpg",
-        "/PSP/3.jpg",
-        "/PSP/4.jpg"
+        "/PSP/1.png",
+        "/PSP/2.png",
+        "/PSP/3.png",
+        "/PSP/4.png"
       ]
     },
     {
