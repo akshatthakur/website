@@ -189,8 +189,8 @@ const StyledCarousel = styled(Carousel)`
   box-shadow: ${({theme}) => theme.card.carousel.boxShadow};
   border-radius: 10px;
   overflow: hidden;
-  height: 100%;
-  width: 100%;
+  height: 275px;
+  width: 500px;
 }
 
 & > .VueCarousel-pagination {
