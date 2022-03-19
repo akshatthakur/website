@@ -74,9 +74,9 @@ export default {
         }
       },
       images: [
-        "/MHR/1.jpg",
-        "/MHR/2.jpg",
-        "/MHR/3.jpg"
+        "/MHR/1.png",
+        "/MHR/2.png",
+        "/MHR/3.png"
       ]
     },
     {
