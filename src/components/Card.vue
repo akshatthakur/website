@@ -37,7 +37,7 @@
         </button-container>
       </left-container>
       <carousel-container v-if="windowWidth > 980">
-        <styled-carousel v-if="images" :perPage="1" :paginationActiveColor="links.color"  ref="carousel">
+        <styled-carousel v-if="images" :perPage="1" :paginationActiveColor="links.color">
           <slide v-for="(image, index) in images" :key="index">
             <carousel-image loading="lazy" v-bind:src="image"/>
           </slide>
