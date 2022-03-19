@@ -273,7 +273,6 @@ export default {
     window.addEventListener('resize', () => {
       this.windowWidth = window.innerWidth
     })
-}
   },
   beforeDestroy() {
       window.removeEventListener('resize', () => {});
