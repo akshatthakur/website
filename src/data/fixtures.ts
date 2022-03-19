@@ -3,10 +3,10 @@ export default {
   products: [
     {
       name: "NeutRal Milk Hotel",
-      medium: ["NLP", "Data Visualization", "Text Analysis", "R"],
+      medium: ["Natural Language Processing", "Data Visualization", "Sentiment and Text Analysis", "Web Scraping", "R"],
       summary: "Audio and lyrical analysis",
       copy: [
-        "A data-driven process to analyze and visualize different aspects of Neutral Milk Hotel’s discography using web scraping and sentiment analysis."
+        "A data-driven process to analyze and visualize different aspects of Neutral Milk Hotel’s discography."
       ],
       links: {
         color: "#363636",
@@ -24,8 +24,8 @@ export default {
     },
     {
       name: "Predicting Song Popularity",
-      medium: ["Supervised Machine Learning", "R"],
-      summary: "Regression Algorithms: Linear, Polynomial, LASSO Regression, and Random Forest",
+      medium: ["Supervised Machine Learning", "Statistical Learning", "R"],
+      summary: "Regression Algorithms: Linear, Polynomial, LASSO Regression, Random Forest, House-blend Ensemble Method",
       copy: [
         "Exploring the extent to which various audio features and metrics affect how popular a song is."
       ],
