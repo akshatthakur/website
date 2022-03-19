@@ -273,7 +273,6 @@ export default {
     window.addEventListener('resize', () => {
       this.windowWidth = window.innerWidth
     })
-    setTimeout(this.$refs.carousel.computeCarouselWidth, 300)
 }
   },
   beforeDestroy() {
