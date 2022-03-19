@@ -270,7 +270,8 @@ export default {
     }
   },
   mounted() {
-    setTimeout(this.$refs.imageman.computeCarouselWidth, 300)
+    setTimeout(this.$refs.imageman.computeCarouselWidth, 300);
+    setTimeout(this.$refs.imageman2.computeCarouselWidth, 300)
   },
   beforeDestroy() {
       window.removeEventListener('resize', () => {});
