@@ -12,7 +12,7 @@ export default {
         color: "#363636",
         primary: {
           name: "Explore",
-          url: "https://akshatthakur.github.io/neutral-milk-hotel.html"
+          url: "/public/projects/neutral-milk-hotel.html"
         }
       },
       images: [
@@ -52,7 +52,7 @@ export default {
         color: "#363636",
         primary: {
           name: "Jupyter",
-          url: "https://github.com/akshatthakur/chronic-kidney-disease/blob/main/ckd%20(1).ipynb"
+          url: "/projects/ckd.ipynb"
         }
       },
       images: [
