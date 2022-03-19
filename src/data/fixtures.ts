@@ -3,7 +3,7 @@ export default {
   products: [
     {
       name: "NeutRal Milk Hotel",
-      medium: ["R", "NLP", "JavaScript"],
+      medium: ["NLP", "Data Visualization", "Text Analysis", "R"],
       summary: "Audio and lyrical analysis",
       copy: [
         "A data-driven process to analyze and visualize different aspects of Neutral Milk Hotel’s discography using web scraping and sentiment analysis."
@@ -11,8 +11,8 @@ export default {
       links: {
         color: "#363636",
         primary: {
-          name: "More",
-          url: "https://akshatthakur.github.io/results-only.html"
+          name: "Explore",
+          url: "https://akshatthakur.github.io/neutral-milk-hotel.html"
         }
       },
       images: [
@@ -23,10 +23,31 @@ export default {
       ]
     },
     {
+      name: "Predicting Song Popularity",
+      medium: ["Supervised Machine Learning", "R"],
+      summary: "Regression Algorithms: Linear, Polynomial, LASSO Regression, and Random Forest",
+      copy: [
+        "Exploring the extent to which various audio features and metrics affect how popular a song is."
+      ],
+      links: {
+        color: "#363636",
+        primary: {
+          name: "Explore",
+          url: "https://github.com/akshatthakur/predicting-song-popularity"
+        }
+      },
+      images: [
+        "/PSP/1.jpg",
+        "/PSP/2.jpg",
+        "/PSP/3.jpg",
+        "/PSP/4.jpg"
+      ]
+    },
+    {
       name: "CKD Prediction Model",
       medium: ["tidyverse", "ggplot2", "caret"],
       summary: "knn-classification model",
-      copy: ["A prediction model that determines if a new patient is likely to have, or, in the future, develop Chronic Kidney Disease."],
+      copy: ["A prediction model that determines if a new patient is likely to have/develop Chronic Kidney Disease."],
       links: {
         color: "#363636",
         primary: {
@@ -41,25 +62,27 @@ export default {
       ]
     },
     {
-      name: "Hotel Database",
-      medium: ["SQL", "Java", "Oracle", "Swing"],
-      summary: "Database from Scratch using SQL and JDBC",
-      copy: ["A database for a fictional hotel. A lot of complicated relational databases stuff here."],
+      name: "Maximizing Housing Resources",
+      medium: ["Linear Programming", "Python"],
+      summary: "Applied Linear Algebra and Sensitivity Analysis",
+      copy: ["A Linear Optimization solution for the homelessness crisis in Vancouver."],
       links: {
         color: "#363636",
         primary: {
-          name: "Github",
-          url: "https://github.com/akshatthakur/hotel-database"
+          name: "Report",
+          url: "https://github.com/akshatthakur/maximising-housing/blob/main/Maximizing%20Housing.pdf"
         }
       },
       images: [
-        "/hb.jpg",
+        "/MHR/1.jpg",
+        "/MHR/2.jpg",
+        "/MHR/3.jpg"
       ]
     },
     {
       name: "Blossom Fell",
-      medium: ["Philosophical Fiction"],
-      summary: "My latest novella.",
+      medium: ["Philosophical Fiction", "Romance"],
+      summary: "My most recent novel",
       copy: ["A look into the secluded world of a young man's many heartbreaks and his struggle to find something genuine in an absurd place."],
       links: {
         color: "#363636",
@@ -69,9 +92,9 @@ export default {
         },
       },
       images: [
+        "/BF/1.jpg",
         "/BF/2.jpg",
-        "/BF/3.jpg",
-        "/BF/1.jpg"
+        "/BF/3.jpg"
       ]
     },
     {
