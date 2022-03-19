@@ -272,7 +272,7 @@ export default {
   mounted() {
     window.addEventListener('resize', () => {
       this.windowWidth = window.innerWidth
-    });
+    })
     setTimeout(this.$refs.carousel.computeCarouselWidth, 300)
 }
   },
