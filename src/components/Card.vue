@@ -37,7 +37,7 @@
         </button-container>
       </left-container>
       <carousel-container v-if="windowWidth > 980">
-        <styled-carousel v-if="images" :perPage="1" :paginationActiveColor="links.color">
+        <styled-carousel v-if="images" :perPage="1" :paginationActiveColor="links.color" ref="imageman2">
           <slide v-for="(image, index) in images" :key="index">
             <carousel-image v-bind:src="image"/>
           </slide>
@@ -273,7 +273,8 @@ export default {
     window.addEventListener('resize', () => {
       this.windowWidth = window.innerWidth
     });
-     setTimeout(this.$refs.imageman.computeCarouselWidth, 300)
+     setTimeout(this.$refs.imageman.computeCarouselWidth, 300);
+     setTimeout(this.$refs.imageman2.computeCarouselWidth, 300)
   },
   beforeDestroy() {
       window.removeEventListener('resize', () => {});
