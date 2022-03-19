@@ -12,7 +12,7 @@ export default {
         color: "#363636",
         primary: {
           name: "Explore",
-          url: "https://akshatthakur.com/projects/neutral-milk-hotel.html"
+          url: "https://akshatthakur.github.io/neutral-milk-hotel.html"
         }
       },
       images: [
