@@ -7,7 +7,7 @@
         <hr>
         <paragraph>I've always had a deep passion for creating new things and solving problems with no pre-existing solutions using technology and innovation. Essentially, I want to use a combination of statistics, math, and computer science to create cool stuff.</paragraph>
         <hr>
-        <paragraph>Following graduation from the University of British Columbia with a <u>BSc. in Statistics and Computer Science</u>, I'm working at a Series-B funded Vancouver tech startup, where I swim in big data and competitive intelligence. If you need me for anything data-sciencey, or want to chat about jazz and rock 'n' rock music, writing, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
+        <paragraph>Following graduation from the University of British Columbia with a <em>BSc.</em> in <em>Statistics</em> and <em>Computer Science</em>, I'm working at a Series-B funded Vancouver tech startup, where I swim in big data and competitive intelligence. If you need me for anything data-sciencey, or want to chat about jazz and rock 'n' rock music, writing, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
         <social-links>
           <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text>
