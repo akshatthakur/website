@@ -74,7 +74,7 @@ export default {
         }
       },
       images: [
-        "/MHR/1.png",
+        "https://i2.lensdump.com/i/rcNxZ7.png",
         "/MHR/2.png",
         "/MHR/3.png"
       ]
