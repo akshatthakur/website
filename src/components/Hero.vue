@@ -5,9 +5,9 @@
         <heading>{{author}}</heading>
         <subtitle>Data Analyst at <linked href="https://klue.com/about">Klue</linked></subtitle>
         <hr>
-        <paragraph>I've always had a deep passion for creating new things and solving problems with no pre-existing solutions using technology and innovation. Essentially, I want to use a combination of statistics, math, and computer science to create cool stuff.</paragraph>
+        <paragraph>I've always had a deep passion for creating new things and solving problems with no pre-existing solutions using statistics, programming, and math.</paragraph>
         <hr>
-        <paragraph>Following graduation from the University of British Columbia with a <em>BSc.</em> in <em>Statistics and Computer Science</em>, I'm working at a Vancouver tech startup. To talk about something data-sciencey, or jazz, rock 'n' roll, writing (or anything else) chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
+        <paragraph>Following graduation from the University of British Columbia with a <em>BSc.</em> in <em>Statistics</em>, I'm working at a Vancouver tech startup. To talk data-science, jazz & rock, writing (or anything else), chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
         <social-links>
           <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text>
