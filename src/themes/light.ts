@@ -8,6 +8,7 @@ export default {
     link: "#3B70A2",
     text: "#222",
     background: "#eee",
+    fallbackBackground: "#fff",
   },
   card: {
     background: "radial-gradient(118.99% 670.46% at -7.06% -9.5%, #FFFFFF 0%, #F1F1F1 100%)",
