@@ -3,11 +3,11 @@
     <container>
       <text-container>
         <heading>{{author}}</heading>
-        <subtitle>Data Analyst at <linked href="https://klue.com/about">Klue</linked></subtitle>
+        <subtitle>Data Analyst at <linked href="https://give.ubc.ca/">UBC DAE</linked></subtitle>
         <hr>
         <paragraph>I've always had a deep passion for creating new things and solving problems with no pre-existing solutions using data, programming, and innovation.</paragraph>
         <hr>
-        <paragraph>Following my graduation from the University of British Columbia with a <em>BSc.</em> in <em>Statistics</em> and <em>C.S.</em>, I'm working at a Vancouver tech startup. To talk data science, jazz & rock, writing, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
+        <paragraph><em>BSc.</em> in <em>Statistics</em> and <em>C.S.</em>, The University of British Columbia. To talk data science, jazz & rock, writing, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
         <social-links>
           <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text>
