@@ -7,7 +7,7 @@
         <hr>
         <paragraph>I've always had a deep passion for creating new things and solving problems with no pre-existing solutions using data, programming, and innovation.</paragraph>
         <hr>
-        <paragraph><em>BSc.</em> in <em>Statistics</em> and <em>C.S.</em>, The University of British Columbia. To talk data science, jazz & rock, writing, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
+        <paragraph><em>BSc.</em> in <em>Statistics</em> and <em>C.S.</em>, The University of British Columbia. <br> To talk data science, jazz & rock, writing, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
         <social-links>
           <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text>
