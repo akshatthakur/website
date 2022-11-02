@@ -5,9 +5,9 @@
         <heading>{{author}}</heading>
         <subtitle>Data Analyst at <linked href="https://give.ubc.ca/">UBC DAE</linked></subtitle>
         <hr>
-        <paragraph>I've always had a deep passion for creating new things and solving problems with no pre-existing solutions using data, programming, and innovation.</paragraph>
+        <paragraph>I specialise in extracting <em>information</em> from <em>data</em> and turning it into <em>insights</em>.</paragraph>
         <hr>
-        <paragraph><em>BSc.</em> in <em>Statistics</em> and <em>C.S.</em>, The University of British Columbia. <br> To talk data science, jazz & rock, writing, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
+        <paragraph>To talk data science, literary fiction, music production, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
         <social-links>
           <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text>
