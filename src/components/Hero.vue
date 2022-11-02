@@ -4,7 +4,7 @@
       <text-container>
         <heading>{{author}}</heading>
         <subtitle>Data Analyst at <linked href="https://give.ubc.ca/">UBC DAE</linked> · 
-        BSc. in Statistics and Computer Science, <linked href="https://you.ubc.ca/ubc_programs/statistics-vancouver/">The University of British Columbia</linked>.  
+        BSc. Statistics & Computer Science, <linked href="https://you.ubc.ca/ubc_programs/statistics-vancouver/">University of British Columbia</linked>  
         </subtitle>
         <hr>
         <paragraph>I specialise in extracting <em>information</em> from <em>data</em> and turning it into <em>insights</em>.</paragraph>
