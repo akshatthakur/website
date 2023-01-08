@@ -14,7 +14,8 @@
         <social-links>
           <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text>
           <social-link-text><linked href="https://www.github.com/akshatthakur" target="_blank"><i class="fab fa-github"></i> Github </linked></social-link-text>
-          <social-link-text><linked href="/projects/CV.pdf" target="_blank"> Résumé </linked></social-link-text>
+          <social-link-text><linked href="/Akshat%20Thakur_Resume.pdf" target="_blank"> Résumé </linked></social-link-text>
+          <social-link-text><linked href="/Akshat%20Thakur.vcf" target="_blank"> Contact </linked></social-link-text>
         </social-links>        
       </text-container>
     </container>
