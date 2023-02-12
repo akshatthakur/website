@@ -4,16 +4,16 @@
       <text-container>
         <heading>{{author}}</heading>
         <subtitle>Data Analyst at <linked href="https://give.ubc.ca/">UBC DAE</linked> · 
-        BSc. <linked href="https://you.ubc.ca/ubc_programs/statistics-vancouver/">Statistics & Computer Science</linked>  
+        Data Scientist at <linked href="https://www.greencitydata.com/">Green City</linked>  
         </subtitle>
         <hr>
-        <paragraph>I specialise in extracting <em>information</em> from <em>data</em> and turning it into <em>insights</em>.</paragraph>
+        <paragraph>I specialise in extracting information from data and turning it into <b>insights</b>.</paragraph>
         <hr>
         <paragraph>To talk data science, literary fiction, music production, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
         <social-links>
-          <social-link-text><linked href="/Akshat%20Thakur.vcf" target="_blank"> Contact </linked></social-link-text>
-          <social-link-text><linked href="/Akshat%20Thakur_Resume.pdf" target="_blank"> Résumé </linked></social-link-text>
+          <social-link-text><linked href="/AkshatThakur_vcard.vcf" target="_blank"> Contact </linked></social-link-text>
+          <social-link-text><linked href="/AkshatThakur_Resume.pdf" target="_blank"> Résumé </linked></social-link-text>
           <!-- <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text> -->
           <!-- <social-link-text><linked href="https://www.github.com/akshatthakur" target="_blank"><i class="fab fa-github"></i> Github </linked></social-link-text> -->
           
