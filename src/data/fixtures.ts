@@ -88,7 +88,7 @@ export default {
         color: "#363636",
         primary: {
           name: "Discover",
-          url: "https://www.amazon.ca/Blossom-Fell-solitude-drowning-endlessly/dp/B08KPXLZHR/"
+          url: "https://www.google.ca/books/edition/Blossom_Fell/QTSoEAAAQBAJ"
         },
       },
       images: [
@@ -107,7 +107,7 @@ export default {
         },
         secondary: {
           name: "Books",
-          url: "https://www.amazon.ca/kindle-dbs/entity/author/B08KNNS2RK"
+          url: "https://www.google.ca/search?sxsrf=APwXEdcw1N8TgA7bNQmjrQmZ6YTGkhjHPw:1682225284061&q=inauthor:%22Akshat+Thakur%22&tbm=bks"
         },
       }
     }
