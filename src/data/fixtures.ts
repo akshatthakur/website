@@ -109,7 +109,7 @@ export default {
           name: "Books",
           url: "https://www.google.ca/search?sxsrf=APwXEdcw1N8TgA7bNQmjrQmZ6YTGkhjHPw:1682225284061&q=inauthor:%22Akshat+Thakur%22&tbm=bks"
         },
-        secondary: {
+        tertiary: {
           name: "Music",
           url: "https://soundcloud.com/affairprice/"
         },
