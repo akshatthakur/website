@@ -13,7 +13,7 @@
 
         <social-links>
           <social-link-text><linked href="/AkshatThakur_vcard.vcf" target="_blank"> Contact </linked></social-link-text>
-          <social-link-text><linked href="/AkshatThakur_Resume.pdf" target="_blank"> Résumé </linked></social-link-text>
+          <social-link-text><linked href="/AkshatThakur_RESUME.pdf" target="_blank"> Résumé </linked></social-link-text>
           <!-- <social-link-text><linked href="https://www.linkedin.com/in/akshatthakur" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</linked></social-link-text> -->
           <!-- <social-link-text><linked href="https://www.github.com/akshatthakur" target="_blank"><i class="fab fa-github"></i> Github </linked></social-link-text> -->
           
