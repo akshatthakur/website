@@ -3,8 +3,8 @@
     <container>
       <text-container>
         <heading>{{author}}</heading>
-        <subtitle>Data Analyst at <linked href="https://give.ubc.ca/">UBC DAE</linked> · 
-        Data Scientist and Strategist · Paperback Writer
+        <subtitle>Data @ <linked href="https://give.ubc.ca/">UBC DAE</linked> · 
+        Data Scientist & Strategist · Paperback Writer
         </subtitle>
         <hr>
         <paragraph>I build cutting-edge machine learning models to extract insights from complex data, and help startups strategize and leverage data solutions to grow damn well.</paragraph>
