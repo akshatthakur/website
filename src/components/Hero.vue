@@ -9,7 +9,7 @@
         <hr>
         <paragraph>I build cutting-edge machine learning models to extract insights from complex data, and work with startups helping strategize and leverage data solutions to grow damn well.</paragraph>
         <hr>
-        <paragraph>To talk data science, literary fiction, music production, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
+        <paragraph>If something about me sparks your interest, let's chat <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
         <social-links>
           <social-link-text><linked href="/AkshatThakur_vcard.vcf" target="_blank"> Contact </linked></social-link-text>
