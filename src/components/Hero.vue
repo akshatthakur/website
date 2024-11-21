@@ -7,7 +7,7 @@
         Data Scientist and Strategist · Paperback Writer
         </subtitle>
         <hr>
-        <paragraph>I build cutting-edge machine learning models to extract insights from complex data, and help startups strategize and leverage data solutions to grow *damn* well.</paragraph>
+        <paragraph>I build cutting-edge machine learning models to extract insights from complex data, and help startups strategize and leverage data solutions to grow damn well.</paragraph>
         <hr>
         <paragraph>If something about me sparks your interest, let's chat <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
