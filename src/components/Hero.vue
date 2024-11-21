@@ -4,10 +4,10 @@
       <text-container>
         <heading>{{author}}</heading>
         <subtitle>Data Analyst at <linked href="https://give.ubc.ca/">UBC DAE</linked> · 
-        Data Scientist at <linked href="https://www.greencitydata.com/">Green City</linked>  
+        Data Scientist and Strategist · Paperback Writer
         </subtitle>
         <hr>
-        <paragraph>I specialise in extracting information from data and turning it into <b>insights</b>.</paragraph>
+        <paragraph>I build cutting-edge machine learning models to extract insights from complex data, and work with startups helping strategize and leverage data solutions to grow damn well.</paragraph>
         <hr>
         <paragraph>To talk data science, literary fiction, music production, or anything else, chat with me <linked href="mailto:akshatvsthakur@gmail.com">here</linked>.</paragraph>
 
