@@ -2,6 +2,24 @@ export default {
   author: "Akshat Thakur",
   products: [
     {
+      name: "Blossom Fell",
+      medium: ["Philosophical Fiction", "Magical Realism", "Romance"],
+      summary: "My most recent novel",
+      copy: ["A look into the secluded world of a young man's many heartbreaks and his struggle to find something genuine in an absurd place."],
+      links: {
+        color: "#363636",
+        primary: {
+          name: "Discover",
+          url: "https://www.google.ca/books/edition/Blossom_Fell/QTSoEAAAQBAJ"
+        },
+      },
+      images: [
+        "/BF/1.jpg",
+        "/BF/2.jpg",
+        "/BF/3.jpg"
+      ]
+    },
+    {
       name: "NeutRal Milk Hotel",
       medium: ["Natural Language Processing", "Data Visualization", "Sentiment and Text Analysis", "Web Scraping", "R"],
       summary: "Audio and lyrical analysis",
@@ -32,7 +50,7 @@ export default {
       links: {
         color: "#363636",
         primary: {
-          name: "Explore",
+          name: "Tune In",
           url: "https://github.com/akshatthakur/predicting-song-popularity"
         }
       },
@@ -51,7 +69,7 @@ export default {
       links: {
         color: "#363636",
         primary: {
-          name: "Jupyter",
+          name: "Code",
           url: "/projects/ckd.ipynb"
         }
       },
@@ -77,24 +95,6 @@ export default {
         "/MHR/1.png",
         "/MHR/2.png",
         "/MHR/3.png"
-      ]
-    },
-    {
-      name: "Blossom Fell",
-      medium: ["Philosophical Fiction", "Romance"],
-      summary: "My most recent novel",
-      copy: ["A look into the secluded world of a young man's many heartbreaks and his struggle to find something genuine in an absurd place."],
-      links: {
-        color: "#363636",
-        primary: {
-          name: "Discover",
-          url: "https://www.google.ca/books/edition/Blossom_Fell/QTSoEAAAQBAJ"
-        },
-      },
-      images: [
-        "/BF/1.jpg",
-        "/BF/2.jpg",
-        "/BF/3.jpg"
       ]
     },
     {
