@@ -4,8 +4,7 @@ export default {
     {
       name: "Roughhouse",
       medium: ["Java", "Android SDK", "Digital Signal Processing", "Music Information Retrieval"],
-      summary: "Quick and dirty music recording app",
-      copy: ["A multitrack recorder for Android, with automatic music analysis and other songwriting tools."],
+      copy: ["A quick and dirty multitrack recorder for Android, with automatic music analysis and other songwriting tools."],
       links: {
         color: "#363636",
         primary: {
@@ -22,8 +21,7 @@ export default {
     {
       name: "Blossom Fell",
       medium: ["Philosophical Fiction", "Magical Realism", "Romance"],
-      summary: "My most recent novel",
-      copy: ["A look into the secluded world of a young man's many heartbreaks and his struggle to find something genuine in an absurd place."],
+      copy: ["My most recent novel. A look into the secluded world of a young man's many heartbreaks and his struggle to find something genuine in an absurd place."],
       links: {
         color: "#363636",
         primary: {
@@ -40,10 +38,7 @@ export default {
     {
       name: "NeutRal Milk Hotel",
       medium: ["Natural Language Processing", "Data Visualization", "Sentiment and Text Analysis", "Web Scraping", "R"],
-      summary: "Audio and lyrical analysis",
-      copy: [
-        "A data-driven process to analyze and visualize different aspects of Neutral Milk Hotel’s discography."
-      ],
+      copy: ["A data-driven look at the audio and lyrics of Neutral Milk Hotel's discography, with visualizations of each album."],
       links: {
         color: "#363636",
         primary: {
@@ -61,10 +56,7 @@ export default {
     {
       name: "Predicting Song Popularity",
       medium: ["Supervised Machine Learning", "Statistical Learning", "R"],
-      summary: "Musical and Lyrical Analysis through Regression Algorithms",
-      copy: [
-        "Exploring the extent to which various audio features and metrics affect how popular a song is."
-      ],
+      copy: ["Using regression models to measure how much a song's audio features and lyrics affect its popularity."],
       links: {
         color: "#363636",
         primary: {
@@ -82,8 +74,7 @@ export default {
     {
       name: "CKD Prediction Model",
       medium: ["tidyverse", "ggplot2", "caret"],
-      summary: "knn-classification model",
-      copy: ["A prediction model that determines if a new patient is likely to have/develop Chronic Kidney Disease."],
+      copy: ["A k-nearest neighbours classifier that predicts whether a new patient is likely to have or develop chronic kidney disease."],
       links: {
         color: "#363636",
         primary: {
@@ -100,8 +91,7 @@ export default {
     {
       name: "Maximizing Housing Resources",
       medium: ["Linear Programming", "Python"],
-      summary: "Applied Linear Algebra and Sensitivity Analysis",
-      copy: ["A Linear Optimization solution for the homelessness crisis in Vancouver."],
+      copy: ["A linear optimization model, with sensitivity analysis, for allocating housing resources during Vancouver's homelessness crisis."],
       links: {
         color: "#363636",
         primary: {

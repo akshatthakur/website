@@ -16,7 +16,7 @@
               </slide>
             </styled-carousel>
           </carousel-container>
-          <subtitle>{{summary}}</subtitle>
+          <subtitle v-if="summary">{{summary}}</subtitle>
           <paragraph v-for="(text, index) in copy" :key="index">{{text}}</paragraph>
         </div>
         <button-container :empty="!copy">
