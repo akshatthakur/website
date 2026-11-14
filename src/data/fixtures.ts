@@ -3,7 +3,7 @@ export default {
   products: [
     {
       name: "Roughhouse",
-      medium: ["Java", "Android SDK", "Digital Signal Processing", "Music Information Retrieval", "GitHub Actions"],
+      medium: ["Java", "Android SDK", "Digital Signal Processing", "Music Information Retrieval"],
       summary: "Signal Processing: YIN Pitch Detection, Spectral Flux Tempo Estimation, Chroma Key Detection, Chord Recognition",
       copy: ["A multitrack recorder for Android, with automatic music analysis and other songwriting tools."],
       links: {
