@@ -56,7 +56,7 @@ export default {
     {
       name: "Predicting Song Popularity",
       medium: ["Supervised Machine Learning", "Statistical Learning", "R"],
-      copy: ["Using regression models to measure how much a song's audio features and lyrics affect its popularity."],
+      copy: ["Using regression models to measure how much a song's audio features affect its popularity."],
       links: {
         color: "#363636",
         primary: {
