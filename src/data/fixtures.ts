@@ -4,7 +4,7 @@ export default {
     {
       name: "Roughhouse",
       medium: ["Java", "Android SDK", "Digital Signal Processing", "Music Information Retrieval"],
-      summary: "Signal Processing: YIN Pitch Detection, Spectral Flux Tempo Estimation, Chroma Key Detection, Chord Recognition",
+      summary: "Quick and dirty music recording app",
       copy: ["A multitrack recorder for Android, with automatic music analysis and other songwriting tools."],
       links: {
         color: "#363636",
@@ -61,7 +61,7 @@ export default {
     {
       name: "Predicting Song Popularity",
       medium: ["Supervised Machine Learning", "Statistical Learning", "R"],
-      summary: "Regression Algorithms: Linear, Polynomial, LASSO Regression, Random Forest, House-blend Ensemble Method",
+      summary: "Musical and Lyrical Analysis through Regression Algorithms",
       copy: [
         "Exploring the extent to which various audio features and metrics affect how popular a song is."
       ],
