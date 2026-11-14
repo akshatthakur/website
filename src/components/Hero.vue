@@ -61,6 +61,13 @@ const TextContainer = styled.div`
   margin: 10px;
   /* Responsive */
   margin-top: -20px;
+  & > h2 {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+  & > hr {
+    margin: 16px 0px;
+  }
   @media screen and (max-width: ${({theme}) => theme.screen.width.desktop}px) {
     width: ${({theme}) => theme.screen.width.mobile - theme.screen.padding.mobile * 2}px;
     margin: auto;

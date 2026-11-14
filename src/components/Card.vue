@@ -6,7 +6,7 @@
           <product-title>{{name}}</product-title>
           <medium>
             <medium-item v-for="(item, index) in medium" :key="`medium-item-${index}`">
-                <span>{{item}}</span><span v-if="index != medium.length - 1"> · </span>
+                <span>{{item}}</span><span v-if="index != medium.length - 1">{{"\u00a0· "}}</span>
             </medium-item>
           </medium>
           <carousel-container v-if="windowWidth <= 980">
@@ -83,8 +83,8 @@ const Contents = styled.div`
   }
 `
 const LeftContainer = styled.div`
-  width: 320px;
-  margin-right: 10px;
+  width: 352px;
+  margin-right: 32px;
   display: flex;
   justify-content: space-between;
   flex-direction: column;
@@ -98,37 +98,40 @@ const LeftContainer = styled.div`
 const ProductTitle = styled.h1`
   font-size: 36px;
   margin-top: 0px;
-  letter-spacing: 0.5px;
-  margin-bottom: 8px;
+  letter-spacing: 0.2px;
+  line-height: 1.15;
+  margin-bottom: 14px;
 `
 const Medium = styled.div`
   font-weight: 300;
-  font-size: 18px;
-  letter-spacing: 1.8px;
-  margin-bottom: 24px;
+  font-size: 16px;
+  letter-spacing: 0.6px;
+  line-height: 1.6;
+  margin-bottom: 28px;
 `
 const MediumItem = styled.span`
   font-weight: 300;
-  font-size: 18px;
-  letter-spacing: 1.8px;
+  font-size: 16px;
+  letter-spacing: 0.6px;
 `
 const btnContainerProps = { empty: Boolean }
 const ButtonContainer = styled('div', btnContainerProps)`
   @media screen and (max-width: ${({theme}) => theme.screen.width.desktop}px) {
     margin-top: 32px;
   }
-  margin-top: ${(props) => props.empty ? 32 : 0}px;
+  margin-top: 32px;
 `
 const btnProps = { primary: Boolean, secondary: Boolean, color: String }
 const StyledButton = styled('a', btnProps)`
   font-size: 12px;
   letter-spacing: 1.2px;
   text-transform: uppercase;
-  padding: 14px 32px;
+  display: inline-block;
+  padding: 0px 30px;
   font-weight: bold;
-  margin-right: 20px;
+  margin-right: 16px;
   border-radius: 24px;
-  line-height: 40px;
+  line-height: 46px;
   color: ${(props) => props.primary ? "#eee" : props.secondary ? props.theme.card.button.text : 'black'};
   background: ${(props) => props.primary ? props.color : props.secondary ? props.theme.card.button.background : 'white'};
   box-shadow: ${(props) => props.primary ? props.theme.card.button.boxShadow.primary : props.secondary ? props.theme.card.button.boxShadow.secondary : 'none'};

@@ -18,9 +18,10 @@ export const Linked = styled.a`
 `
 
 export const Subtitle = styled.h2`
-  font-size: 18px;
-  margin-bottom: 4px;
-  letter-spacing: 1px;
+  font-size: 16px;
+  margin: 0px 0px 10px 0px;
+  line-height: 1.45;
+  letter-spacing: 0.3px;
   font-weight: 400;
   font-style: italic;
 `
@@ -28,8 +29,8 @@ export const Subtitle = styled.h2`
 export const Paragraph = styled.p`
   font-size: 18px;
   margin: 0px 0px 20px 0px;
-  line-height: 1.47059;
-  letter-spacing: 0.25px;
+  line-height: 1.6;
+  letter-spacing: 0.1px;
   font-weight: 300;
   margin-bottom: 0;
 `
