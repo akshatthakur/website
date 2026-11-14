@@ -2,6 +2,24 @@ export default {
   author: "Akshat Thakur",
   products: [
     {
+      name: "Roughhouse",
+      medium: ["Java", "Android SDK", "Digital Signal Processing", "Music Information Retrieval", "GitHub Actions"],
+      summary: "Signal Processing: YIN Pitch Detection, Spectral Flux Tempo Estimation, Chroma Key Detection, Chord Recognition",
+      copy: ["A multitrack recorder for Android, with automatic music analysis and other songwriting tools."],
+      links: {
+        color: "#363636",
+        primary: {
+          name: "Download",
+          url: "https://github.com/akshatthakur/roughhouse/releases/latest/download/Roughhouse.apk"
+        },
+        secondary: {
+          name: "Code",
+          url: "https://github.com/akshatthakur/roughhouse"
+        }
+      },
+      images: ["/RH/1.jpg", "/RH/2.jpg", "/RH/3.jpg"]
+    },
+    {
       name: "Blossom Fell",
       medium: ["Philosophical Fiction", "Magical Realism", "Romance"],
       summary: "My most recent novel",
