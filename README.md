@@ -1,4 +1,3 @@
-My personal website that showcases some of my projects.
-Live at www.akshatthakur.com.
+The previous version of my personal website. It's no longer deployed: www.akshatthakur.com now runs on a new site.
 
 ![](80.png)
