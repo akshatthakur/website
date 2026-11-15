@@ -106,19 +106,6 @@ export default {
       ]
     },
     {
-      name: "Regret Ledger",
-      medium: ["Decision Theory", "Monte Carlo Simulation", "Bayesian Inference", "JavaScript", "Vite"],
-      copy: ["A personal decision log built on the math of regret. Tracks choices over time, fits your own persistence parameter from real check-ins, and runs uncertainty analysis to surface which unknowns are actually worth resolving before you decide."],
-      links: {
-        color: "#e5487f",
-        primary: {
-          name: "Open",
-          url: "https://regret.akshatthakur.com"
-        }
-      },
-      images: ["/RL/1.png", "/RL/2.png", "/RL/3.png"]
-    },
-    {
       name: "More projects",
       links: {
         color: "#363636",
